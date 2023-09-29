@@ -1,0 +1,13 @@
+node_modules/**/*
+constants/Environment.js
+.expo/*
+.vscode/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
